@@ -1,0 +1,6 @@
+{
+  "name": "AeroStruct: Aviation Regulatory Processor",
+  "description": "High-fidelity semantic chunking and JSON structuring for ICAO, EASA, and other aviation regulatory documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Processing", "Document Analysis"]
+}
